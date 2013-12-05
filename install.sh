@@ -19,5 +19,4 @@ brew cask install quicksilver
 brew cask install xunlei
 brew cask install electrum
 brew cask install wunderlist
-brew cask install github
 brew cask install sourcetree
