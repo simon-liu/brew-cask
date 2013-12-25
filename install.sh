@@ -20,3 +20,6 @@ brew cask install xunlei
 brew cask install electrum
 brew cask install wunderlist
 brew cask install sourcetree
+brew cask install dropbox
+brew cask install cinch
+brew cask install cord
