@@ -23,3 +23,4 @@ brew cask install sourcetree
 brew cask install dropbox
 brew cask install cinch
 brew cask install cord
+brew cask install cyberduck
